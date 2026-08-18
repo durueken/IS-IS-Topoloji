@@ -1,4 +1,3 @@
-# Nokia SR OS Topology Tool
 
 # IS-IS Topoloji Otomasyonu
 
